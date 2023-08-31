@@ -5,10 +5,14 @@ body
 }
 .avatar{
     width: 480px;
+    border: 1px dotted grey; 
 }
 .card
 {
-   border: 5px dotted grey; 
+   border: 2px dotted grey; 
    padding: 20px;
    display: flex;
+}
+.border{
+    border: 2px dotted cornsilk; 
 }
