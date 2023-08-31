@@ -1,4 +1,14 @@
 body
 {
     margin: 20px;
+    background:whitesmoke;
+}
+.avatar{
+    width: 480px;
+}
+.card
+{
+   border: 5px dotted grey; 
+   padding: 20px;
+   display: flex;
 }
