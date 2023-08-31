@@ -9,10 +9,10 @@ body
 }
 .card
 {
-   border: 2px dotted grey; 
+    border: 2px dotted   gainsboro; 
    padding: 20px;
    display: flex;
 }
 .border{
-    border: 2px dotted cornsilk; 
+    border: 1px dotted grey; 
 }
